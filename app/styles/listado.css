@@ -1,0 +1,30 @@
+.editable-text {
+    border: 1px solid #ccc;
+    padding: 5px;
+    width: 100%;
+    display: block;
+  }
+  
+  .editable-text:focus {
+    background-color: yellow;
+  }
+  
+  /* Estilos adicionales */
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 5px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 5px 10px;
+    background-color: #000;
+    color: #fff;
+  }
+  

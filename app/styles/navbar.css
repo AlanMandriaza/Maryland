@@ -1,0 +1,22 @@
+/* navbar.css */
+
+/* Estilos generales para el navbar */
+.navbar {
+    background-color: #333; /* Color de fondo del navbar */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff; /* Color del texto de los enlaces del navbar */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #ccc; /* Color del texto de los enlaces del navbar al pasar el mouse */
+  }
+  
+  /* Textura de fondo y animaciones para el navbar */
+
+  
+  .navbar-nav .nav-link {
+    transition: color 0.3s ease; /* Animación de transición para el color del texto */
+  }
+  
